@@ -1,0 +1,8 @@
+
+
+mysql/data
+rails/src/*
+!Gemfile
+!Gemfile.lock
+
+
